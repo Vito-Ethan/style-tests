@@ -3,6 +3,7 @@
 // press f12 and slide the dev tools up or just resize the browser vertically.
 // you'll notice the image just gets cropped
 import Image from 'next/image';
+
 export default function Page() {
   return (
     <section className="relative flex flex-col h-screen overflow-hidden md:block justify-center">
